@@ -11,11 +11,10 @@ I also love making stuff using:
 `figma` `illustrator` `photoshop` `after effects` `indesign`  
 I wonder what happen to `sketch` 🤔
 
+---
+
 I love building interesting and exciting stuff. You got ideas? 💬 find me at [hello@hendhyhutomo.com](hello@hendhyhutomo.com) or [hendhy@tomostudio.id](hendhy@tomostudio.id).
 
-<br/><br/>
----
-<br/><br/>
 
 <!-- 
 <p align = "left">
