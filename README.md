@@ -7,3 +7,10 @@ These are some codes I like to use:
 `React` `Gatsby JS` `Next JS` `Sanity` & `Javascript` (duh! 😄) 
 
 💬 I love building interesting and exciting stuff. You got ideas? find me at [hello@hendhyhutomo.com](hello@hendhyhutomo.com) or [hendhy@tomostudio.id](hendhy@tomostudio.id).
+
+
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hendhyhutomo&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=hendhyhutomo&theme=dark&hide_border=true" width = 400>
+</p>
